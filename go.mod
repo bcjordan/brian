@@ -1,4 +1,4 @@
-module github.com/brian/brian
+module github.com/bcjordan/brian
 
 go 1.21
 
